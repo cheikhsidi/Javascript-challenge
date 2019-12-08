@@ -83,6 +83,10 @@ select {
     outline: none;
 }
 
+.table-head {
+    background-color: black;
+}
+
 #table-area th {
     text-align: center;
 }
